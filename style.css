@@ -1,0 +1,26 @@
+body {
+    margin: 10px;
+    background-color: bisque;
+}
+
+.navbar {
+    margin: 20px;
+    background-color: bisque;
+    padding: 20px;
+    float: right;
+}
+
+.navbar a {
+    padding: 20px;
+    color: rgb(4, 5, 4);
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar a:hover {
+    color: white;
+}
+
+.friend {
+    color: rgb(15, 15, 11);
+}
